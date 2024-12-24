@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "151035191792",
+    "project_id": "medx-f6b5a",
+    "storage_bucket": "medx-f6b5a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:151035191792:android:1c7fc87cb4394f4bcc7d35",
+        "android_client_info": {
+          "package_name": "com.medxtechnologies.medx"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "151035191792-udmaavgl5rra60hs4312an6onrneklg5.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.medxtechnologies.medx",
+            "certificate_hash": "67c10db6493e68b1fb99fdadb7192844b028de27"
+          }
+        },
+        {
+          "client_id": "151035191792-6ncmvjhs6ri5lg1oq8cj25cnaqu93f93.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBsMPvCoFUBPUrmbAMVxaHZV3j2VRczwkM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "151035191792-6ncmvjhs6ri5lg1oq8cj25cnaqu93f93.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
